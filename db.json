@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "characters": [
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false
+    },
+    {
+      "id": 5,
+      "name": "messi",
+      "occupation": "footballer",
+      "weapon": "boot HAHA",
+      "cartoon": true
+    },
+    {
+      "name": "Ghost",
+      "occupation": "Uknown",
+      "cartoon ": "Unknown",
+      "weapon": "Axe like axios ",
+      "id": 6
+    },
+    {
+      "name": {},
+      "occupation": {},
+      "weapon": {},
+      "cartoon": {},
+      "id": 7
+    }
+  ]
+}
